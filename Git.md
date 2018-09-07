@@ -26,6 +26,7 @@
 (例) `git add test`、`git add test.md`  
 
 * コミットする
+> ローカルリポジトリに保存する事
 `git commit -m <"コメント">`
 (例) `git commit -m "テストです"`  
 
@@ -50,3 +51,5 @@
 
 * ブランチの一覧を表示(＊が付いているのが現在のブランチ)
 `git branch`
+
+test
